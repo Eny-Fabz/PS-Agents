@@ -142,11 +142,11 @@ Among all the route calculations, **Nairobi -> Naivasha -> Nakuru -> Kericho -> 
 
 ### Meeting 1
 - **Date:** 16th October 2026
-- **Platform:** Online (Google Meet) and GitHub Collaboration
+- **Platform:** Online (Google Meet) and GitHub
 
 ### Meeting 2
 - **Date:** 5th November 2026
-- **Platform:** Group collaboration and GitHub
+- **Platform:** Online (Google Meet) and GitHub
 
 ### Attendance
 1. **Fabunmi, Eniola Faithfulness (167925)** – Present. Created the repository, worked on Question 1 (PEAS and agent environment definitions), reviewed formatting, verified forks and proofread `design.md`. For the extension, worked on the Python UCS implementation and its explanation alongside Emma.
