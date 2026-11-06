@@ -61,7 +61,7 @@ The directed graph below models the state space across the **Nairobi**, **Centra
 * The **Nodes** represent states (cities and towns).
 * **Directed Edges** represent moving from one town toward the next, labelled with their approximate road distance (step cost in km).
 
-<img width="5945" height="1579" alt="mermaid-diagram-2026-10-17-002804" src="https://github.com/user-attachments/assets/00c6d783-ab4a-442f-9be6-3d455fe47fe2" />
+<img width="5793" height="1579" alt="mermaid-diagram-2026-10-17-000143" src="https://github.com/user-attachments/assets/9ea94c25-ceaa-40af-89cb-d280812e3830" />
 
 
 ### 2.2 Search Tree (Applying Abstraction)
@@ -72,7 +72,7 @@ In problem formulation, **abstraction** removes irrelevant details, states, and 
 
 2. **Leaving out smaller stops:** We also left out smaller stops along the way, such as Ruiru between Nairobi and Thika, Olenguruone and Nyamira. This keeps the search tree simpler and focuses on the main towns and road junctions that could help the trailer get from Nairobi to Kisumu.
 
-<img width="5793" height="1579" alt="mermaid-diagram-2026-10-17-000143" src="https://github.com/user-attachments/assets/614e0056-4845-4128-9d46-95828e6418ab" />
+<img width="2476" height="1750" alt="mermaid-diagram-2026-10-17-003506" src="https://github.com/user-attachments/assets/1a724ed5-11a8-4131-a2e1-1017bb09502b" />
 
 
 ## Question 3: Path Cost Function & Optimal Path Calculation
