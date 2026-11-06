@@ -83,7 +83,7 @@ The path cost function assigns the road distance in kilometres between connected
 | Highway Segment (From Town – To Town) | Road Distance (km) |
 | :--- | :--- |
 | Nairobi to Naivasha | 88 km |
-| Naivasha to Nakuru | 69 km |
+| Naivasha to Nakuru | 75 km |
 | Nakuru to Kericho  | 107 km |
 | Nakuru to Molo | 47 km |
 | Molo to Kericho | 64 km |
