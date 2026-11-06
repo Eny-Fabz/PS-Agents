@@ -139,18 +139,33 @@ Among all the route calculations, **Nairobi -> Naivasha -> Nakuru -> Kericho -> 
 
 
 ## Groupwork Evidence: Meeting Minutes
-* **Date of Meeting:** 16th October 2026
-  
-* **Platform:** Online (Google Meet) & GitHub Collaboration
-  
-* **Attendance:**
-  1.  Fabunmi, Eniola Faithfulness 167925 - Present (Created repository, compiled Question 1 PEAS & Environment definitions, Reviewed formatting, verified forks, and proofread `design.md)
-  2. Maina, Tiffany Wanjiru 189592 - Present (Developed Question 2 Directed Graph & Search Tree with abstraction)
-  3. Ogwayo, Emma Awuor 189923 - Present (Calculated Question 3 Google Maps town distances and path costs)
 
-* **Agenda & Resolutions:**
-  1. Reviewed the lecture slides on Intelligent Agents and Problem-Solving Agents.
-  2. Formulated the PEAS description and classified the 5 environment properties for the self-driving trailer o
-  3. Mapped the nodes across Nairobi, Central Highlands, Rift Valley, and Lake Victoria Basin into a directed graph and applied abstraction to prune non-optimal eastern/dead-end branches for the search tree.
-  4. Researched using google's feature and calculated the cumulative kilometric step costs across all major corridors from Nairobi to Kisumu and verified that the Nairobi–Naivasha–Nakuru–Kericho–Kisumu route yields the lowest cost.
-  5. All present members forked the main `PS-Agents` repository as required.
+### Meeting 1
+- **Date:** 16th October 2026
+- **Platform:** Online (Google Meet) and GitHub Collaboration
+
+### Meeting 2
+- **Date:** 5th November 2026
+- **Platform:** Group collaboration and GitHub
+
+### Attendance
+1. **Fabunmi, Eniola Faithfulness (167925)** – Present. Created the repository, worked on Question 1 (PEAS and agent environment definitions), reviewed formatting, verified forks and proofread `design.md`. For the extension, worked on the Python UCS implementation and its explanation alongside Emma.
+2. **Maina, Tiffany Wanjiru (189592)** – Present. Developed the Question 2 directed graph and search tree with abstraction. For the extension, worked on the written explanations, including the exercise overview and explanation of Uniform Cost Search.
+3. **Ogwayo, Emma Awuor (189923)** – Present. Worked on Question 3 by calculating Google Maps town distances and path costs. For the extension, worked on the Python UCS implementation and its explanation alongside Eniola.
+
+### Agenda & Resolutions
+
+1. Reviewed the lecture slides on Intelligent Agents and Problem-Solving Agents.
+2. Developed the PEAS framework and classified the five agent environment properties for the self-driving trailer.
+3. Created the directed graph of Kenya's highway network, covering the Nairobi, Central Highlands, Rift Valley and Lake Victoria Basin regions, and applied abstraction when developing the search tree.
+4. Used Google's distance search feature to calculate the distances between towns and compare possible routes from Nairobi to Kisumu.
+5. Identified Nairobi → Naivasha → Nakuru → Kericho → Kisumu as the optimal route, with a total distance of 347 km.
+6. All group members forked the original `PS-Agents` repository as required.
+
+**During the 5th November meeting:**
+
+7. Reviewed the extension instructions and discussed how to implement Uniform Cost Search using the directed graph and path costs from Part 1.
+8. Divided the work, with Tiffany handling the written explanations, while Eniola and Emma worked on the Python implementation and explanation of the code.
+9. Implemented the UCS algorithm using Python's `heapq` module to manage the priority queue and track the accumulated path costs.
+10. Included the search traversal to show the order in which the trailer explores the towns, together with their accumulated costs.
+11. Reviewed the final results to identify the optimal route from Nairobi to Kisumu and present its total path cost.
