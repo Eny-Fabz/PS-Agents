@@ -72,7 +72,7 @@ In problem formulation, **abstraction** removes irrelevant details, states, and 
 
 2. **Leaving out smaller stops:** We also left out smaller stops along the way, such as Ruiru between Nairobi and Thika, Olenguruone and Nyamira. This keeps the search tree simpler and focuses on the main towns and road junctions that could help the trailer get from Nairobi to Kisumu.
 
-<img width="2476" height="1750" alt="mermaid-diagram-2026-10-17-003506" src="https://github.com/user-attachments/assets/2858b5a0-bd09-4e94-90b4-43e9332cda63" />
+<img width="5793" height="1579" alt="mermaid-diagram-2026-10-17-000143" src="https://github.com/user-attachments/assets/614e0056-4845-4128-9d46-95828e6418ab" />
 
 
 ## Question 3: Path Cost Function & Optimal Path Calculation
